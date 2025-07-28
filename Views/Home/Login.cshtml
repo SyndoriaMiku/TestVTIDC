@@ -1,10 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+@{
+    ViewData["Title"] = "Login Page";
+}
 
-</body>
-</html>
+<div class="form-center">
+    <form method="post" asp-controller="Login" asp-action="Index">
+        <label>Username:</label><input type="text" name="username" /><br />
+        <label>Password:</label><input type="password" name="password" /><br />
+        <button type="submit">Login</button>
+    </form>
+</div>
