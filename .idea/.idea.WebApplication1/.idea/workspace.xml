@@ -8,7 +8,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="533d8646-a298-4802-b2c4-43320ba5ff9a" name="Changes" comment="" />
+    <list default="true" id="533d8646-a298-4802-b2c4-43320ba5ff9a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication1.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication1.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication1.dir/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,12 +55,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "login",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -98,7 +105,8 @@
       <option name="presentableId" value="Default" />
       <updated>1753685019298</updated>
       <workItem from="1753685020796" duration="1266000" />
-      <workItem from="1753686537907" duration="2640000" />
+      <workItem from="1753686537907" duration="4739000" />
+      <workItem from="1753692308965" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="Init">
       <option name="closed" value="true" />
